@@ -5,14 +5,9 @@ $title='Lorem';
 $h1='<h1> This is h1</h1>';
 $year=2020;
 ?>
-
-
-
-
 <head>
     <meta charset="UTF-8">
     <title><? echo $title;?></title></head>
-
 <body>
 <? echo $h1; ?>
 
